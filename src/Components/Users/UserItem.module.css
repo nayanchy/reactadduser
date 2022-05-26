@@ -1,0 +1,16 @@
+.user-item{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li.user-item{
+    padding: 10px;
+    background-color: antiquewhite ;
+    margin:5px 0;
+}
